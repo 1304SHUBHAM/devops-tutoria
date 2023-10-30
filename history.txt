@@ -1,0 +1,256 @@
+sudo su
+ls
+ls -ltr
+pwd
+mkdir test-folder
+ls
+pwd
+cd test-folder/
+cd ..
+cd test-folder/
+cd ../
+cd test-folder/
+pwd
+cd ../music/
+cd -
+ls
+vi editor
+ls
+ls -l
+clear
+cd DEsktop/
+cd Desktop/
+ls
+ll
+pwd
+cd /home/shubham9405gmai/
+ls -l
+ls -la
+ls -lar
+ls -larth
+cd /home/shubham9405gmai/
+pwd
+cd Desktop/
+cd --/
+history
+man
+man ls
+mkdir -p /opt/one/two/tree/four
+ls
+ls -l
+pwd
+ls
+cd
+cd Desktop/
+ls
+ll
+pwd
+cd /home/shubham9405gmai/
+ll
+ls -la
+ls -lar
+ls -lart
+ls -larth
+cd /home/shubham9405gmai/
+pwd
+cd Desktop/
+cd --/
+man
+man ls
+man cut
+mkdir shubham
+ll
+mkdir -p -/one/two/three/four
+mkdir p -/one/two/three/four
+mkdir -p ./one/two/three/four
+ll
+ll one
+ll one/two
+ll one/two/three
+three
+apt install three
+sudo -i
+sudo su
+sudo apt install tree
+htop
+sudo apt install elinks
+apt install elinks
+sudo apt install elinks
+sudo visudo
+touch one/one.txt
+tree one/
+tree one/two/index.html
+tree one/
+cd one/
+touch a.txt b.txt c.txt d.txt
+ll
+vim a.txt
+ll
+echo "hi this is for file b.txt"
+echo "hi this is for file b.txt" > b.txt
+cat .txt
+cat b.txt
+cat a.txt
+history > history.txt
+ll
+cat history.txt
+ll
+rm a.txt
+ll
+rm *.txt
+ll
+tree
+rm two/
+rmdir two/
+rmdir two/ -r
+rmdir two/ -f
+rm -rf two
+tree
+ls
+cd ..
+rm -rf one/
+history
+docker -v
+docker ps
+docker ps -a
+docker -v
+docker
+docker run -itd -p shubham/httpd:blue
+docker run -itd -p80:80 shubham/httpd:blue
+docker pull hello-world
+docker rmidocker images
+docker images
+docker run hello-world
+docker pull nginx
+docker images
+docker pull shubham867/httpd:blue
+docker pull shubhamborkute/httpd:blue
+docker run postgre:15.4
+sudo docker pull nginx
+docker pull ngnix
+sudo su
+ls
+pwd
+mkdir anik
+ls
+cd anik
+vim x.txt
+cat x.txt
+cd ..
+ls
+ls
+ls -l
+pwd
+ls
+cd Desktop/
+ls
+ll
+pwd
+cd /home/shubham9405gmai/
+ls -la
+ls -lar
+ls -larth
+cd /home/shubham9405gmai/
+pwd
+cd Desktop
+cd ../
+ls -la
+ls -lar
+ls -larth
+mkdir kanchan
+ll
+mkdir -p ./one/two/three/
+ll one/
+tree
+touch 1/1.txt
+touch one/one.txt
+tree one
+touch one/two/index.html
+tree one/two/index.html
+tree one/
+cd one/
+touch x.txt y.txt z.txt s.log
+ll
+vim x.txt
+echo "hi this for the file z.txt"
+cat x.txt
+rm x.txt
+ll
+rm *.txt
+ll
+tree
+rm two/
+rm -rf two
+tree
+ls
+cd ..
+ll
+rm -rf one/
+ls
+pwd
+mkdir anik
+ls
+cd anik
+touch anik
+cd ..
+vim anik
+uname -a
+date
+cat /etc/is
+apt install git
+sudo cat /etc/os.re
+sudo apt install git
+cat /etc/os.re
+cat /etc/os.release
+cat /etc/os-release
+cd shubham/
+cd kanchan
+git clone https://github.com/1304SHUBHAM/delete-me.git
+ll
+cd delete-me/
+ll
+vim README.md
+git add README.md
+git commit -am"first upload"
+git push
+uname -a
+date
+cat /etc/is
+apt install git
+sudo apt install git
+cat /etc/os-release
+cd kanchan/
+git clonegit@github.com:1304SHUBHAM/delete-me.git
+git clone git@github.com:1304SHUBHAM/delete-me.git
+git clone git@github.com:1304SHUBHAM/1304SHUBHAM.git
+ll
+cd delete-me/
+ll
+history
+git status
+cd ..
+git clone git@github.com:1304SHUBHAM/devops-tutoria.git
+ssh-keygen
+cd ~/.ssh/
+ll
+cat id_rsa
+cat id_rsa.pub
+cd -
+git clone git@github.com:1304SHUBHAM/devops-tutoria.git
+ll
+cd devops-tutoria/
+vim README.md
+git add .
+git commit-am"first upload"
+git commit -am"first upload"
+git push
+git config --global user.email shubham9405@gmail.com
+git config --global user.name 1304SHUBHAM
+git push
+git status
+git commit -am"hi"
+git push
+cd ..
+cd devops-tutoria
+history
+history | cut -c 8- > history.txt
